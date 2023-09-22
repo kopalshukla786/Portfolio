@@ -1,0 +1,18 @@
+.btn {
+    padding: .45rem 1.5rem .35rem;
+  }
+  
+  .gradient-custom {
+    /* fallback for old browsers */
+    background: #c471f5;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(196, 113, 245, 1), rgba(250, 113, 205, 1));
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(196, 113, 245, 1), rgba(250, 113, 205, 1))
+  }
+  body{
+    background: url("https://static.vecteezy.com/system/resources/previews/014/456/987/non_2x/brick-wall-and-light-background-vector.jpg");
+    /* background: url("https://as1.ftcdn.net/v2/jpg/05/40/60/80/1000_F_540608008_DZ3y53LHqqffibJL8VEJphgntfy0eHKb.jpg"); */
+  }
